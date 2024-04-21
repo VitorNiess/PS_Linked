@@ -1,0 +1,14 @@
+.maindiv{
+    height: 56rem; width: 100%; margin: 0
+}
+
+.titlepara{
+    margin-top: 15rem; 
+    font-weight: bold; 
+    text-shadow: 0 0 5px black
+}
+
+.parabtn{
+    border-radius: 2rem; 
+    margin-top: 15rem;
+}

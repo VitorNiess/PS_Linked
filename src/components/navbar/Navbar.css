@@ -1,0 +1,20 @@
+.navbar-fixed{
+    z-index: 999 !important;
+}
+
+.title{
+    margin-left: 3rem;
+    font-size: 2rem;
+}
+
+.navdivtrans{
+    background-color: rgba(100, 181, 246, 0.52) !important;
+}
+
+.navdivsolid{
+    background-color: rgb(100, 181, 246) !important;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0) !important;
+}
